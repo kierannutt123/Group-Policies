@@ -16,10 +16,10 @@ Key Features:
 
 ## Existing GPOs
 
-### Password related GPOs
+### Password related GPOs- Click to enlarge
 
 ![](passwordpolicies.png)
 
-### Account Lockout related GPOs
+### Account Lockout related GPOs- Click to enlarge
 
-![](accountlockout.png)
+![](accountlockout.jpg)
